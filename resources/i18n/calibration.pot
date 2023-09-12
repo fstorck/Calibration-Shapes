@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Calibration Shape\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-24 10:13+0000\n"
+"POT-Creation-Date: 2023-09-12 09:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -240,8 +240,8 @@ msgctxt "@info"
 msgid "Every script are up to date in :\n"
 msgstr ""
 
-#: CalibrationShapes.py:363 qml/qml_qt5/CalibrationShapes.qml:20
-#: qml/qml_qt6/CalibrationShapes.qml:20
+#: CalibrationShapes.py:363 qml/qml_qt6/CalibrationShapes.qml:20
+#: qml/qml_qt5/CalibrationShapes.qml:20
 msgctxt "@title"
 msgid "Calibration Shapes"
 msgstr ""
@@ -308,7 +308,7 @@ msgctxt "@info:label"
 msgid "! Modification ! for the extruder definition of : "
 msgstr ""
 
-#: qml/qml_qt5/CalibrationShapes.qml:90 qml/qml_qt6/CalibrationShapes.qml:113
+#: qml/qml_qt6/CalibrationShapes.qml:113 qml/qml_qt5/CalibrationShapes.qml:90
 msgctxt "@label"
 msgid "Size:"
 msgstr ""
